@@ -8,11 +8,11 @@ Hi there 👋
 
 
 <div style="display: inline_block"><br>
-  <href="https://github.com/AnaTeresaTeixeira/JavaScript" img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/AnaTeresaTeixeira/Google">
-  <img align="center" alt="CSS" height="30" width="40" src="">
-  <img align="center" alt="python" height="30" width="40" src="">
-  <img align="center" alt="java" height="30" width="40" src="">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/AnaTeresaTeixeira/CS50">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>
 
