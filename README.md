@@ -8,9 +8,9 @@ Hi there 👋
 <br>
 
   <div align="center">
-  <a href="https://github.com/brunomjanuario">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomjanuario&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomjanuario&layout=compact&langs_count=7&theme=light"/>
+  <a href="https://github.com/AnaTeresaTeixeira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaTeresaTeixeira&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTeresaTeixeira&layout=compact&langs_count=7&theme=light"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
