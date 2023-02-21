@@ -5,7 +5,7 @@ Hi there 👋
 - I am looking for an internship opportunity to show my skills
 - ⚡ Fun fact: I love to read and write about life
 
-
+<br>
 
   <div align="center">
   <a href="https://github.com/brunomjanuario">
