@@ -8,7 +8,7 @@ Hi there 👋
 
 
 <div style="display: inline_block"><br>
-  <a href="https://github.com/AnaTeresaTeixeira/JavaScript" img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <href="https://github.com/AnaTeresaTeixeira/JavaScript" img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/AnaTeresaTeixeira/Google">
   <img align="center" alt="CSS" height="30" width="40" src="">
   <img align="center" alt="python" height="30" width="40" src="">
