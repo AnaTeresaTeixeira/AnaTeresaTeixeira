@@ -6,7 +6,7 @@ Hi there 👋
 - ⚡ Fun fact: I love to read and write about life
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" height="35"><br>
   <a href="https://github.com/AnaTeresaTeixeira">
   <img align="center" alt="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
