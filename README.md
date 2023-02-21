@@ -16,7 +16,8 @@ Hi there 👋
   <img align="center" alt="C" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/anateresateixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/anateresateixeira">
+  <target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
