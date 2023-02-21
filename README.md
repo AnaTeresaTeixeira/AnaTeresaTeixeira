@@ -2,8 +2,7 @@ Hi there 👋
 
 - 🔭 I'm currently working on developing an app
 - 🌱 I’m learning Java, JavaScript and Python
-- 👯 I am looking for an internship opportunity to show my skills
-- 📫 How to reach me: teresaanateixeira@gmail.com
+- I am looking for an internship opportunity to show my skills
 - ⚡ Fun fact: I love to read and write about life
 
 
@@ -20,8 +19,8 @@ Hi there 👋
   <br><br>
   
   <div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:teresaanateixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anateresateixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
