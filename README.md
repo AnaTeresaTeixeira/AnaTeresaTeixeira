@@ -4,7 +4,7 @@ Hi there 👋
 - 🌱 I’m learning Java, JavaScript and Python
 - I am looking for an internship opportunity to show my skills
 - ⚡ Fun fact: I love to read and write about life
-- A proud CS50 student
+- A proud CS50 student on her way to bootcamp
 
 <br>
 
