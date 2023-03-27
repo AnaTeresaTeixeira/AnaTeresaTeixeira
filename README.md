@@ -27,9 +27,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="mysql" height="60" width="70" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img align="center" alt="js" height="60" width="70" 
+   <img align="center" alt="js" height="50" width="60" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="py" height="60" width="70" 
+   <img align="center" alt="py" height="50" width="60" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
          
 </div>
