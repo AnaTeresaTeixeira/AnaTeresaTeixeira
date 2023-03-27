@@ -40,8 +40,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
    <a href="https://www.youtube.com/channel/UCQM7yq6U69iodgZd9nAsZKw" target="_blank"><img src="https://img.shields.io/badge/-youtube-%230077B5?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank"></a> 
     
 ##
-
-![Snake animation](https://github.com/AnaTeresaTeixeira/AnaTeresaTeixeira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
