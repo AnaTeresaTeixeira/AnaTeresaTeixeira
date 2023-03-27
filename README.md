@@ -27,8 +27,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="mysql" height="60" width="70" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img align="center" alt="javascript" height="60" width="70" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original-wordmark.svg" />
+   <img align="center" alt="js" height="60" width="70" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original-wordmark.svg" />
          
 </div>
 
