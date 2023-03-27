@@ -6,6 +6,7 @@ Hi there 👋
 - ⚡ Fun fact: I love to read and write about life
 - A proud CS50 student 
 
+
 <br>
 
   <div align="center">
