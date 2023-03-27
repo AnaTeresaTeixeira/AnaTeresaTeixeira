@@ -7,6 +7,7 @@ Hi there 👋
 - A proud CS50 student 
 
 
+
 <div align="center">
   <a href="https://github.com/AnaTeresaTeixeira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaTeresaTeixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -31,8 +32,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 
 <div> 
   <br>
-   <a href="https://www.linkedin.com/in/deirilene " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/deirilene " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/anateresateixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.youtube.com/channel/UCQM7yq6U69iodgZd9nAsZKw" target="_blank"><img src="https://img.shields.io/badge/-yotube-%230077B5?style=for-the-badge&logo=yotube&logoColor=white" target="_blank"></a> 
     
 ##
 
