@@ -6,7 +6,13 @@ Hi there 👋
 - ⚡ Fun fact: I love to read and write about life
 - A proud CS50 student 
 
-
+<div >
+  <br>
+  <a href="https://github.com/AnaTeresaTeixeira">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deirilene&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deirilene&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
   
   ##
   
